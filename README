@@ -1,0 +1,4 @@
+# gmaps-location-history-parser
+
+
+A small utility to ingest and parse out Google Maps location history data that's exportable from Google Takeout
