@@ -3,3 +3,4 @@ lib/
 *.pyc
 locations.json
 .vscode/settings.json
+*.txt
